@@ -1,3 +1,9 @@
+"""
+The key here is to start thinking of the function as an infinite generator
+and that we will break once it meets a parameter.
+@jon
+"""
+
 from typing import List
 
 # def fib(n: int) -> List[int]:
